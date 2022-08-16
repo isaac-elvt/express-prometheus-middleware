@@ -1,6 +1,6 @@
 const express = require('express');
 const OtelApi = require('@opentelemetry/api');
-const Prometheus = require('/home/andrei/dev/prom-client');
+const Prometheus = require('prom-client');
 const ResponseTime = require('response-time');
 
 const {
