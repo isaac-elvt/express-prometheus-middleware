@@ -29,7 +29,8 @@
     "eslint-plugin-import": "^2.13.0",
     "express": "4.x",
     "husky": "^4.2.5",
-    "prom-client": "github:isaac-elvt/prom-client",
+    "prom-client": "git+ssh://git@github.com/isaac-elvt/prom-client.git#49f700140c888977031c121abc66f42690a49dee"
+",
     "standard-version": "^9.2.0"
   },
   "dependencies": {
