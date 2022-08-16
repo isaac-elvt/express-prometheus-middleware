@@ -36,10 +36,6 @@
     "response-time": "^2.3.2",
     "url-value-parser": "^2.0.0"
   },
-  "peerDependencies": {
-    "express": "4.x",
-    "prom-client": ">= 10.x <= 13.x"
-  },
   "optionalDependencies": {
     "prometheus-gc-stats": "^0.6.2"
   }
