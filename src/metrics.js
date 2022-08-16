@@ -1,5 +1,5 @@
-// const Prometheus = require('prom-client');
-const Prometheus = require('/home/andrei/dev/prom-client');
+const Prometheus = require('prom-client');
+// const Prometheus = require('/home/andrei/dev/prom-client');
 
 /**
  * @param prefix - metrics name prefix
